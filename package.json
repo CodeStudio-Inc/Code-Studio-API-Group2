@@ -1,0 +1,29 @@
+{
+  "name": "code-studio-api-group2",
+  "version": "1.0.0",
+  "description": "A Platform QA Platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeStudio-Inc/Code-Studio-API-Group2.git"
+  },
+  "keywords": [
+    "QA"
+  ],
+  "author": "Andrew Philipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeStudio-Inc/Code-Studio-API-Group2/issues"
+  },
+  "homepage": "https://github.com/CodeStudio-Inc/Code-Studio-API-Group2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
